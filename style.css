@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
+nav {
+  background-color: aqua;
+  height: 10rem;
+  display: flex;
+  position: relative;
+  font-size: 1.8 rem;
+}
+link {
+  padding: 0.5rem;
+  margin: 1 rem;
+  justify-content: right;
+  text-decoration: none;
+  font-size: 1.8rem;
+}
+
+main {
+  background-color: blueviolet;
+  height: 70rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+picture {
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+input {
+  width: 15rem;
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+
+  border: 1px solid black;
+  border-radius: 12px;
+}
