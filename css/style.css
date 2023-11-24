@@ -58,3 +58,8 @@ main .main-logo {
   margin: 0 auto;
   margin-bottom: 3.5rem;
 }
+
+main .main-logo img {
+  width: 29.7rem;
+  height: 9.2rem;
+}
