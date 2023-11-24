@@ -56,4 +56,5 @@ main {
 main .main-logo {
   width: 53rem;
   margin: 0 auto;
+  margin-bottom: 3.5rem;
 }
